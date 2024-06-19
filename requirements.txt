@@ -1,0 +1,10 @@
+flask
+streamlit
+pandas
+yfinance
+requests
+textblob
+joblib
+scikit-learn
+gunicorn
+
